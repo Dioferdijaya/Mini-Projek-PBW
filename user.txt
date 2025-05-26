@@ -1,0 +1,8 @@
+user@gmail.com,Password1,yaya,user
+admin@gmail.com,Admin123,admin
+dioferdijaya121@gmail.com,akakak,user,dio
+admin@gmail.com,Password21,user,dio
+jaya@gmail.com,Password21,user,dio
+dioyaaa@gmail.com,Password21,admin,dio
+yaya@gmail.com,Password21,admin,yaya
+yoyo@gmail.com,Password21,user,yoyo
